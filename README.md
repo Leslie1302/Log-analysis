@@ -24,8 +24,8 @@ Installation
 
     Clone the repository:
 
-git clone [https://github.com/yourusername/intelligent-log-analyzer.git](https://github.com/Leslie1302/Log-analysis)
-cd intelligent-log-analyzer
+git clone (https://github.com/Leslie1302/Log-analysis)
+cd intelligent-log-analysis
 
 Install the required Python libraries:
 

@@ -34,8 +34,13 @@ Install the required Python libraries:
 Usage
 
 Run the script from the command line:
+ollama pull mistral
+#pull mistral for ollama
 
-python log_analyzer.py <file> [--message "Custom prompt message"]
+python3 -m venv venv #start virtual environment 
+source venv activate #activate virtual environment
+
+python "log analysis.py" <file> [--message "Custom prompt message"]
 
 Parameters:
 
